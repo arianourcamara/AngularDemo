@@ -13,23 +13,6 @@
       "title": "Post 3"
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "username": "john",
-      "password": "Password"
-    },
-    {
-      "id": 2,
-      "username": "Mariam",
-      "password": "Password"
-    },
-    {
-      "id": 3,
-      "username": "Hadia",
-      "password": "Password"
-    }
-  ],
   "comments": [
     {
       "id": 1,
