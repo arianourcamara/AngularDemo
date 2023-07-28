@@ -27,5 +27,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+   "users": {
+     "id": 1,
+     "username":"mari",
+    "password": "password"
   }
 }
