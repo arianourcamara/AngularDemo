@@ -25,11 +25,8 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
-   "users": {
-     "id": 1,
+  "users": {
+    "id": 1,
      "username":"mari",
     "password": "password"
   }
