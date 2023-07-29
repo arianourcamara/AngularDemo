@@ -2,15 +2,24 @@
   "clients": [
     {
       "id": 1,
-      "title": "Post 1"
+      "nom": "Post 1",
+      "prenom": "camara",
+      "numeroTelephone": "682737373",
+      "commentaire": "teyt dg uptem detssut"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "nom": "Post 1",
+      "prenom": "camara",
+      "numeroTelephone": "682737373",
+      "commentaire": "teyt dg uptem detssut"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "nom": "Post 1",
+      "prenom": "camara",
+      "numeroTelephone": "682737373",
+      "commentaire": "teyt dg uptem detssut"
     }
   ],
   "comments": [
