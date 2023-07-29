@@ -25,15 +25,9 @@
       "postId": 1
     }
   ],
-  "users":[ {
+  "users": {
     "id": 1,
      "username":"mari",
     "password": "password"
-  }],
-  "clients":[{
-      "nom": "Doe",
-      "prenom": "John",
-      "numeroTelephone": "1234567890",
-      "commentaire": "Client fidèle",
-  }]
+  }
 }
