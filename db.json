@@ -25,9 +25,15 @@
       "postId": 1
     }
   ],
-  "users": {
+  "users": [{
     "id": 1,
      "username":"mari",
     "password": "password"
+  },
+  {
+    "id":2,
+    "username":"mari",
+    "password": "password"
   }
+  ]
 }
